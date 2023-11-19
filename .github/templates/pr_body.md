@@ -1,1 +1,0 @@
-This pull request was created as a place for your teacher to leave feedback on your work.
